@@ -1,0 +1,9 @@
+{
+  "name": "Tag Cards by the subdeck that it is in",
+  "mod": 0,
+  "author": "wzkariampuzha",
+  "description": "Too many subdecks causes Anki to slowdown. This tool adds tags to notes based on the subdeck(s) that their cards belong to, which preserves the hierarchy and allows anki subdecks to be removed",
+  "min_point_version": 0,
+  "max_point_version": 0,
+  "branch": "main"
+}
