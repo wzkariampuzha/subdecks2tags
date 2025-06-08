@@ -1,13 +1,4 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: "[BUG] ***"
-labels: bug
-assignees: ''
-
----
-
----
 name: Bug Report
 about: Report a problem to help us improve
 title: "[Bug] Describe the issue"
@@ -16,17 +7,8 @@ assignees: ''
 ---
 
 ## Describe the Bug
-A clear and concise description of what the bug is.
+A brief description of what you were trying to do, what you expected to happen, and a clear and concise description of what happened.
 
-## To Reproduce
-Steps to reproduce the behavior:
-1. ...
-2. ...
-3. ...
-
-## Expected Behavior
-
-A brief description of what you expected to happen.
 
 ## Screenshots (if applicable)
 
